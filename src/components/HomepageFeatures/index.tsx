@@ -10,32 +10,30 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'To be continued...',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Maybe check out <a href="https://links.r3dlust.com">links.r3dlust.com</a> for now?
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'This is a work in progress...',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        For now we're just testing the waters, this page will be updated soon!
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Nothing here yet...',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I'm still working on this page, but you can check out the{' '}
+        <a href="/docs/intro">docs</a> for now!
       </>
     ),
   },
